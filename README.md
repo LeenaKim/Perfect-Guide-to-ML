@@ -12,7 +12,7 @@
 
 **문제유형**
 
-![LeenaKim-2265414](./빅분기_실기준비.assets/LeenaKim-2265414.png)
+![LeenaKim-2265414](./img.assets/LeenaKim-2265414.png)
 
 
 
@@ -20,17 +20,17 @@
 
 **단답형**
 
-![LeenaKim-2265455](빅분기_실기준비.assets/LeenaKim-2265455.png)
+![LeenaKim-2265455](img.assets/LeenaKim-2265455.png)
 
 **작업형 1**
 
-![LeenaKim-2262662](빅분기_실기준비.assets/LeenaKim-2262662.png)
+![LeenaKim-2262662](img.assets/LeenaKim-2262662.png)
 
 
 
 **작업형 2**
 
-![LeenaKim-2263215](빅분기_실기준비.assets/LeenaKim-2263215.png)
+![LeenaKim-2263215](img.assets/LeenaKim-2263215.png)
 
 
 
