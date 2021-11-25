@@ -288,9 +288,10 @@ results.to_csv("practice_no2.csv", index=False)
 
 - 작업형 2유형 진행방식
   1. 데이터프레임의 칼럼을 drop하여 X와  y로 나누기 
-  2. 원핫인코딩 (X_train, X_test)
-  3. Standard Scaler/ MinMaxScaler : Train으로 학습 후(fit) X_train, X_test로 transform 하기 
-  4. 랜덤포레스트로 학습 
-  5. kfold로 여러 분류기로 학습 
-  6. 상위성능 2개 모델의 하이퍼파라미터 튜닝 후 vote 앙상블 
-  7. pd.concat 으로 식별자와 예측한 타겟값 합침
+  2. 결측값 제거 / 대체
+  3. 원핫인코딩 (X_train, X_test)
+  4. Standard Scaler/ MinMaxScaler : Train으로 학습 후(fit) X_train, X_test로 transform 하기 
+  5. 랜덤포레스트로 학습 
+  6. kfold로 여러 분류기로 학습 
+  7. 상위성능 2개 모델의 하이퍼파라미터 튜닝 후 vote 앙상블 
+  8. pd.concat 으로 식별자와 예측한 타겟값 합침
